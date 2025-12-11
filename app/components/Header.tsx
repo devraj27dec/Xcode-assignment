@@ -46,7 +46,7 @@ export default function Header({
                   className={`font-medium transition-colors ${
                     scrolled
                       ? "text-[#19325E] hover:text-[#E63946]"
-                      : "text-white hover:text-red-300"
+                      : "text-[#19325E] hover:text-red-300"
                   }`}
                 >
                   {item}
