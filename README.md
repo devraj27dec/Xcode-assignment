@@ -7,7 +7,8 @@ A modern, responsive event website built using **Next.js** and **Tailwind CSS** 
 ## 🚀 Live Demo
 
 - **Live Site**: https://your-live-url.com
-- **Demo Video**: https://your-demo-video.com
+### 🎥 Demo Video [Click here to watch the demo video](https://xcode-assignment-khaki.vercel.app/demo.mp4)
+
 
 ---
 
